@@ -61,8 +61,3 @@ def main():
 
         new_offset = last_update_id + 1
 
-if __name__ == '__main__':
-    try:
-        main()
-    except KeyboardInterrupt:
-        exit()
